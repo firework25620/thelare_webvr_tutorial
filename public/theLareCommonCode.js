@@ -4,7 +4,7 @@ var vRViewPlayer = function(elementIdName, options) {
 }
 
 var drawingRoom = vRViewPlayer('#first-vr-example', {
-  image: 'https://q3fb03rfy3f4ahuzu2uy6e11-wpengine.netdna-ssl.com/wp-content/uploads/2015/09/photosphere-android.jpg',
+  image: 'https://fscl01.fonpit.de/userfiles/4155894/image/photo-sphere-w628.jpg',
   is_stereo: false,
 });
 
