@@ -32,14 +32,14 @@ var setReadyEvents = function(event) {
     pitch: 0,
     yaw: -150,
     radius: 0.50,
-    distance: 9
+    distance: -6
   });
   
   drawingRoom.addHotspot('spot4', {
     pitch: 89,
     yaw: -200,
     radius: 0.50,
-    distance: 12
+    distance: 3
   });
 };
 
