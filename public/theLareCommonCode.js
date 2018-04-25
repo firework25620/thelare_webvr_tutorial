@@ -19,7 +19,7 @@ var roomDrawing = vRViewPlayer('#second-vr-example', {
 window.addEventListener('load', roomDrawing);
 
 var boxRoomTemplate = vRViewPlayer('#third-vr-example', {
-  image: 'https://www.dpreview.com/files/p/articles/4623343664/sphere_plaza.jpg',
+  image: 'https://photosphereviewer.net/images/demo/demo2_full.jpg',
   is_stereo: false,
 });
 
