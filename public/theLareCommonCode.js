@@ -53,8 +53,13 @@ var setOnClickEvents = function(event) {
   }
 
   if (event.id == 'spot3') {
-    alert(' ?? ');
+    alert('Spot3');
   }
+  
+   if (event.id == 'spot4') {
+    alert('Spot4 ');
+  }
+  
 };
 
 // when the page is ready, do these events
