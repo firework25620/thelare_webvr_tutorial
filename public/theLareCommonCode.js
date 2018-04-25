@@ -45,19 +45,19 @@ var setReadyEvents = function(event) {
 
 var setOnClickEvents = function(event) {
   if (event.id == 'spot1') {
-    alert("Spot1")
+    alert("1. FUNNNN")
   }
 
   if (event.id == 'spot2') {
-    alert('Spot2');
+    alert('2. FUNNER');
   }
 
   if (event.id == 'spot3') {
-    alert('Spot3');
+    alert('3. FUNNIER');
   }
   
    if (event.id == 'spot4') {
-    alert('Spot4 ');
+    alert('4. COOLESTTTTT ');
   }
   
 };
