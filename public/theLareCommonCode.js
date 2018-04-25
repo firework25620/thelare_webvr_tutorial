@@ -4,13 +4,11 @@ var vRViewPlayer = function(elementIdName, options) {
 }
 
 var drawingRoom = vRViewPlayer('#first-vr-example', {
-  image: 'https://raw.githubusercontent.com/lare-student/thelare_webvr_tutorial/master/public/assets/underwater-vr.jpg',
+  image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLLlsxH89yg7k_khzhJj8YxJDTDymNLFPLdHQvJttqUtmQRsvm',
   is_stereo: false,
 });
 
 window.addEventListener('load', drawingRoom);
-
-
 
 
 var setReadyEvents = function(event) {
