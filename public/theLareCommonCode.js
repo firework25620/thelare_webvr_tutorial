@@ -19,7 +19,7 @@ var roomDrawing = vRViewPlayer('#second-vr-example', {
 window.addEventListener('load', roomDrawing);
 
 var boxRoomTemplate = vRViewPlayer('#third-vr-example', {
-  image: 'https://raw.githubusercontent.com/lare-student/thelare_webvr_tutorial/master/public/assets/example-rectangular-room.png',
+  image: 'https://photosphereviewer.net/images/demo/demo1_full.jpg',
   is_stereo: false,
 });
 
