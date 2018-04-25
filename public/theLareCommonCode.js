@@ -39,7 +39,7 @@ var setReadyEvents = function(event) {
     pitch: 0,
     yaw: 360,
     radius: 0.50,
-    distance: 3
+    distance: 9
   });
 };
 
