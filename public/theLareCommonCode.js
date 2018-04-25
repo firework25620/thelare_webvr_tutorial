@@ -11,9 +11,10 @@ var drawingRoom = vRViewPlayer('#first-vr-example', {
 window.addEventListener('load', drawingRoom);
 
 var roomDrawing = vRViewPlayer('#second-vr-example', {
-  image: 'https://25dkd82t2owl3yew6h49ewsh.wpengine.netdna-cdn.com/wp-content/uploads/2014/08/JIC-photo-623x200.jpg',
+  image: 'http://25dkd82t2owl3yew6h49ewsh.wpengine.netdna-cdn.com/wp-content/uploads/2014/08/JIC-photo-623x200.jpg',
   is_stereo: false,
 });
+
 
 window.addEventListener('load', roomDrawing);
 
